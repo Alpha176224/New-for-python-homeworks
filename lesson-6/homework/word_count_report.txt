@@ -1,0 +1,6 @@
+Word Count Report
+Total Words: 16
+Top 3 Words:
+file - 3
+is - 3
+a - 2
